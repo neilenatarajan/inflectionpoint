@@ -1,4 +1,4 @@
-## Welcome to Inflection Point
+Welcome to Inflection Point
 
 You can use the [editor on GitHub](https://github.com/neilenatarajan/inflectionpoint/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
